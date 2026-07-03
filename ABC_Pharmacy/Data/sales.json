@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "MedicineId": 1,
+    "QuantitySold": 6,
+    "SaleDate": "2026-07-03T11:25:11.1675663+05:30"
+  },
+  {
+    "Id": 2,
+    "MedicineId": 12,
+    "QuantitySold": 6,
+    "SaleDate": "2026-07-03T11:29:49.5610071+05:30"
+  },
+  {
+    "Id": 3,
+    "MedicineId": 12,
+    "QuantitySold": 8,
+    "SaleDate": "2026-07-03T11:30:08.7443239+05:30"
+  },
+  {
+    "Id": 4,
+    "MedicineId": 13,
+    "QuantitySold": 7,
+    "SaleDate": "2026-07-03T11:38:15.3576046+05:30"
+  }
+]

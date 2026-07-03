@@ -1,0 +1,6 @@
+@ABC_Pharmacy_HostAddress = http://localhost:5242
+
+GET {{ABC_Pharmacy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

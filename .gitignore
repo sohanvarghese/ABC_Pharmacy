@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+**/bin/
+**/obj/
+
+# Vue
+pharmacy-ui/node_modules/
+pharmacy-ui/dist/
+
+# Logs
+*.log
+
+# User files
+*.user
+*.suo
+
+# Windows
+Thumbs.db

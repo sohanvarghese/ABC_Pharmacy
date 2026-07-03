@@ -1,0 +1,119 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Crocin 6500 Updated",
+    "Notes": "Updated Medicine",
+    "ExpiryDate": "2026-12-01T00:00:00",
+    "Quantity": 90,
+    "Price": 20,
+    "Brand": "GSK"
+  },
+  {
+    "Id": 2,
+    "FullName": "Dolo 650",
+    "Notes": "Fever and pain relief",
+    "ExpiryDate": "2027-12-31T00:00:00",
+    "Quantity": 5,
+    "Price": 18.50,
+    "Brand": "Micro Labs"
+  },
+  {
+    "Id": 3,
+    "FullName": "Amoxicillin 500mg",
+    "Notes": "Antibiotic",
+    "ExpiryDate": "2026-07-20T00:00:00",
+    "Quantity": 25,
+    "Price": 45.00,
+    "Brand": "Cipla"
+  },
+  {
+    "Id": 4,
+    "FullName": "Bexon Plus",
+    "Notes": "Pain reliever ",
+    "ExpiryDate": "2026-06-04T00:00:00",
+    "Quantity": 5,
+    "Price": 50,
+    "Brand": "Bexon"
+  },
+  {
+    "Id": 5,
+    "FullName": "Dynapar",
+    "Notes": "Jel",
+    "ExpiryDate": "2026-07-31T00:00:00",
+    "Quantity": 50,
+    "Price": 400,
+    "Brand": "Glen"
+  },
+  {
+    "Id": 6,
+    "FullName": "KETOROL",
+    "Notes": "Pain Killer",
+    "ExpiryDate": "2026-09-04T00:00:00",
+    "Quantity": 300,
+    "Price": 30,
+    "Brand": "GLEN"
+  },
+  {
+    "Id": 7,
+    "FullName": "Paracetamol",
+    "Notes": "Fever",
+    "ExpiryDate": "2026-08-14T00:00:00",
+    "Quantity": 60,
+    "Price": 90,
+    "Brand": "Cipla"
+  },
+  {
+    "Id": 8,
+    "FullName": "Ketostar",
+    "Notes": "Skin",
+    "ExpiryDate": "2026-08-28T00:00:00",
+    "Quantity": 50,
+    "Price": 450,
+    "Brand": "Ketostar"
+  },
+  {
+    "Id": 9,
+    "FullName": "MythylFolate",
+    "Notes": "Pain",
+    "ExpiryDate": "2026-07-31T00:00:00",
+    "Quantity": 20,
+    "Price": 40,
+    "Brand": "Winston"
+  },
+  {
+    "Id": 10,
+    "FullName": "WinAlgesic",
+    "Notes": "Pain",
+    "ExpiryDate": "2026-09-11T00:00:00",
+    "Quantity": 40,
+    "Price": 40,
+    "Brand": "Winston"
+  },
+  {
+    "Id": 11,
+    "FullName": "Tetarom",
+    "Notes": "Pain",
+    "ExpiryDate": "2026-07-21T00:00:00",
+    "Quantity": 5,
+    "Price": 60,
+    "Brand": "GLEN"
+  },
+  {
+    "Id": 12,
+    "FullName": "Beta Normal",
+    "Notes": "Pain",
+    "ExpiryDate": "2026-10-15T00:00:00",
+    "Quantity": 46,
+    "Price": 50,
+    "Brand": "GLEN"
+  },
+  {
+    "Id": 13,
+    "FullName": "FR56",
+    "Notes": "Pain",
+    "ExpiryDate": "2026-09-05T00:00:00",
+    "Quantity": 63,
+    "Price": 80,
+    "Brand": "GLEN"
+  }
+]
